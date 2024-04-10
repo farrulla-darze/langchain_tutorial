@@ -1,0 +1,5 @@
+langchain
+langchain-openai
+jupyter
+ipykernel
+python-dotenv
